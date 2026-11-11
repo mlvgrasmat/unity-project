@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Coin
+  - floor
+  - stamina
+  - health
+  - obstacle
   layers:
   - Default
   - TransparentFX
